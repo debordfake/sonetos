@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sonetos</title>
-    <link>https://exemplo.org/tags/</link>
+    <link>https://kind-swirles-d144ed.netlify.app/tags/</link>
     <description>Recent content in Tags on Sonetos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://exemplo.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://kind-swirles-d144ed.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
